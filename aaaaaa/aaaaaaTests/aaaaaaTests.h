@@ -10,6 +10,7 @@
 
 #define Whatever.
 
+#define aaaa
 @interface aaaaaaTests : SenTestCase
 
 @end
