@@ -11,6 +11,7 @@
 #define Whatever.
 
 #define Whatever2
+#define aaaa
 @interface aaaaaaTests : SenTestCase
 
 @end
