@@ -8,6 +8,8 @@
 
 #import <SenTestingKit/SenTestingKit.h>
 
+#define Whatever.
+
 @interface aaaaaaTests : SenTestCase
 
 @end
