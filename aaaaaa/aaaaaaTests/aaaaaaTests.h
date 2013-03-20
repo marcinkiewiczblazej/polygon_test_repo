@@ -12,6 +12,8 @@
 
 #define Whatever2
 #define aaaa
+int a = 0;
+#define aaaa
 @interface aaaaaaTests : SenTestCase
 
 @end
